@@ -4,4 +4,4 @@
 <li>cd termux-apache2-installer</li>
 <li>bash installer.sh</li>
 </ol>
-Enjoy!
+
